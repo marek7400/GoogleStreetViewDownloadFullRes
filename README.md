@@ -107,7 +107,8 @@ Use the menu option:
 360 degrees Panorama Viewer
 From there, you can export (take a screenshot of) a selected section of the panorama.
 
-![360 degrees Panorama Viewer](../SVD360view.jpg)
+
+![360 degrees Panorama Viewer](SVD360view.jpg)
 
 
 
