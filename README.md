@@ -75,7 +75,7 @@ C:\Windows
 Download the appropriate script file:
 
 - `streetview-dl8.py` → for **8192×4096** (zoom4)
-- `streetview-dl16.py` → for **16384×8192**
+- `streetview-dl16.py` → for **16384×8192** (zoom5)
 
 ---
 
