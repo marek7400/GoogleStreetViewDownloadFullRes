@@ -1,7 +1,7 @@
 # Google Street View Panorama Download Full Resolution
 
 The free version of **Street View Download 360** does not allow you to download panoramas in full resolution  
-(max **3328×1664**).
+(free max **3328×1664**).
 
 Full resolution download is available only in the paid **PRO** version.
 
