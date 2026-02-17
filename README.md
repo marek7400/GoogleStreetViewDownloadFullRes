@@ -89,7 +89,7 @@ Or using Panorama ID:
 python streetview-dl16.py PANORAMA_ID
 
 Or using a full Google Maps Street View link:
-python streetview-dl16.py "https://www.google.pl/maps/place/Osiedle+Słoneczne+12,+31-957+Kraków/@50.0616283,19.9385476,3a,75y,86.3h,96.95t/data=..."
+python streetview-dl16.py ""
 
 #  Viewing the Panorama Correctly
 
