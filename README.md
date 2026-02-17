@@ -76,6 +76,7 @@ Download the appropriate script file:
 
 - `streetview-dl8.py` → for **8192×4096** (zoom4)
 - `streetview-dl16.py` → for **16384×8192** (zoom5)
+- `streetview-dl16v2DELAY.py`→ with delay option in ms
 
 ---
 
