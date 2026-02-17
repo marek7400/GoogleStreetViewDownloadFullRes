@@ -86,9 +86,13 @@ Download the appropriate script file:
 python streetview-dl16.py "https://www.google.com/maps/@41.3881837,2.1698939,3a,75y,143.45h,92.72t/data=!3m6!1e1!3m4!1sr3vUp9U2ss5fwoq1Roxizw!2e0!7i16384!8i8192"
 
 Or using Panorama ID:
+
 python streetview-dl16.py PANORAMA_ID
 
+python streetview-dl16.py dATvHl4xpoL8FDbu5Elkmw
+
 Or using a full Google Maps Street View link:
+
 python streetview-dl16.py "https://www.google.pl/maps/place/Kraków/@50.0615594,19.9386523,3a,75y,253.11h,88.2t/data=!3m7!1e1!3m5!1sdATvHl4xpoL8FDbu5Elkmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8004397899011906%26panoid%3DdATvHl4xpoL8FDbu5Elkmw%26yaw%3D253.1113592416134!7i16384!8i8192!4m6!3m5!1s0x471644c0354e18d1:0xb46bb6b576478abf!8m2!3d50.0646501!4d19.9449799!16zL20vMDQ5MXk?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D"
 
 #  Viewing the Panorama Correctly
